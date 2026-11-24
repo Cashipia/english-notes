@@ -1,6 +1,6 @@
-# yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
+﻿# yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: English Notes
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -8,7 +8,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: quartz.jzhao.xyz
+  baseUrl: english-notes-mu.vercel.app
   ignorePatterns:
     - private
     - templates
@@ -269,3 +269,4 @@ layout:
         right: []
     canvas: {}
     bases: {}
+
